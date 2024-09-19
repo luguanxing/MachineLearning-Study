@@ -8,7 +8,7 @@
 
 ## 项目内容 Project includes
 
-- **场景集合**：涵盖了多种典型的机器学习场景和应用，如分类、回归、聚类、自然语言处理、图像识别等。
+- **场景集合**：涵盖了多种典型的机器学习场景和应用，如分类、回归、聚类等。
 - **数据集**：每个场景提供了相应的开放数据集，方便用户直接使用和实验。
 - **代码实现**：提供了代码示例，帮助用户理解和掌握机器学习的核心概念和技术。
 - **Scenario Collection**: Covers a variety of typical machine learning scenarios and applications, such as classification, regression, clustering, natural language processing, image recognition, etc.
