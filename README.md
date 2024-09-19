@@ -26,9 +26,14 @@
    ├── regression/     
    │
    ├── clustering/     
-   │   ├── 啤酒数据聚类 Beer Data Clustering
-   │   ├── 国会议员投票数据分析 Analysis of Congressional Voting Data
-   │   └── ... 
+   │   └──  k-means
+   │        ├── 啤酒数据聚类 Beer Data Clustering
+   │        ├── 国会议员投票数据分析 Analysis of Congressional Voting Data
+   │        └── ... 
 ```
 
 <br/>
+
+## 参考来源 References
+《跟着迪哥学Python数据分析与机器学习实战》
+
