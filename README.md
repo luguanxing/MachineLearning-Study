@@ -4,7 +4,9 @@
 
 **MachineLearning-Examples** is a project aimed at collecting various machine learning scenarios, datasets, and code implementations. It is designed to provide a rich repository for learners and practitioners, enabling them to quickly start developing machine learning projects.
 
-## 项目内容包括： Project includes:
+<br/>
+
+## 项目内容 Project includes
 
 - **场景集合**：涵盖了多种典型的机器学习场景和应用，如分类、回归、聚类、自然语言处理、图像识别等。
 - **数据集**：每个场景提供了相应的开放数据集，方便用户直接使用和实验。
@@ -12,3 +14,21 @@
 - **Scenario Collection**: Covers a variety of typical machine learning scenarios and applications, such as classification, regression, clustering, natural language processing, image recognition, etc.
 - **Datasets**: Each scenario provides corresponding open datasets, making it easy for users to directly use and experiment.
 - **Code Implementations**: Code examples are provided to help users understand and grasp core concepts and techniques in machine learning.
+
+<br/>
+
+## 目录（持续更新中）Directory (Continuously Updating)
+
+```
+── examples/           
+   ├── classification/ 
+   │                   
+   ├── regression/     
+   │
+   ├── clustering/     
+   │   ├── 啤酒数据聚类 Beer Data Clustering
+   │   ├── 国会议员投票数据分析 Analysis of Congressional Voting Data
+   │   └── ... 
+```
+
+<br/>
