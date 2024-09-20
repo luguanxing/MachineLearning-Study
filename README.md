@@ -25,7 +25,7 @@
    │                   
    ├── regression/     
    │
-   ├── clustering/     
+   ├── 聚类 clustering/     
    │   └──  k-means
    │        ├── 啤酒数据聚类 Beer Data Clustering
    │        ├── 国会议员投票数据分析 Analysis of Congressional Voting Data
