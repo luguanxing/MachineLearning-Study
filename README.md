@@ -20,19 +20,19 @@
 ## 目录（持续更新中）Directory (Continuously Updating)
 
 ```
-⭐️分类classification
-   💡算法algorithms
-      逻辑回归logistic regression
-   📚案例examples
+⭐️分类 classification
+   💡算法 algorithms
+      逻辑回归 logistic regression
+   📚案例 examples
 
-⭐️回归regression
-  💡算法algorithms
-      线性回归linear regression
-  📚案例examples
+⭐️回归 regression
+  💡算法 algorithms
+      线性回归 linear regression
+  📚案例 examples
 
-⭐️聚类clustering
-   💡算法algorithms
-   📚案例examples
+⭐️聚类 clustering
+   💡算法 algorithms
+   📚案例 examples
       啤酒数据聚类 Beer Data Clustering
       国会议员投票数据分析 Analysis of Congressional Voting Data
 
