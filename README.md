@@ -22,12 +22,14 @@
 ```
 ⭐️分类 classification
    💡算法 algorithms
-      逻辑回归 logistic regression
+      逻辑回归分类 logistic regression classification
+      随机森林分类 random forest classification
    📚案例 examples
 
 ⭐️回归 regression
   💡算法 algorithms
       线性回归 linear regression
+      随机森林回归 random forest regression
   📚案例 examples
 
 ⭐️聚类 clustering
