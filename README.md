@@ -24,6 +24,8 @@
    💡算法 algorithms
       逻辑回归分类 logistic regression classification
       随机森林分类 random forest classification
+      朴素贝叶斯分类 naive Bayes classification
+      支持向量机分类 support vector machine classification
    📚案例 examples
 
 ⭐️回归 regression
