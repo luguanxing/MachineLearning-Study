@@ -23,6 +23,3 @@ Each clustering algorithm has its applicable scenarios, along with its advantage
  - GMM (Gaussian Mixture Model) is effective for soft clustering and clusters with different variances.
  - Affinity Propagation and Birch are well-suited for automatically determining the number of clusters and handling large-scale data.
 
-<br/>
-
-<img width="704" alt="image" src="https://github.com/user-attachments/assets/127f957b-638a-43ec-a374-2c39bed29737">
