@@ -1,8 +1,8 @@
-# MachineLearning-Examples
+# MachineLearning-Study
 
-**MachineLearning-Examples** 是一个用于收集机器学习一些场景、数据集和代码实现的项目。
+**MachineLearning-Study** 是一个用于收集机器学习一些场景、数据集和代码实现的项目。
 
-**MachineLearning-Examples** is a project aimed at collecting various machine learning scenarios, datasets, and code implementations.
+**MachineLearning-Study** is a project aimed at collecting various machine learning scenarios, datasets, and code implementations.
 
 <br/>
 
