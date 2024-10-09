@@ -36,6 +36,7 @@
       随机森林回归 random forest regression
       神经网络回归 neural network recession
   📚案例 examples
+      随机森林预测气温 Random Forest Temperature Prediction
 
 ⭐️聚类 clustering
    💡算法 algorithms
@@ -45,6 +46,11 @@
       啤酒数据聚类 Beer Data Clustering
       国会议员投票数据分析 Analysis of Congressional Voting Data
 
+⭐️降维 dimensionality reduction
+   💡算法 algorithms
+      主成分分析 principal component analysis
+      线性判别式 linear discriminant analysis
+   📚案例 examples
 ```
 
 <br/>
