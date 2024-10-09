@@ -17,7 +17,7 @@
 
 <br/>
 
-## 目录（持续更新中）Directory (Continuously Updating)
+## 目录（更新中）Directory (Updating)
 
 ```
 ⭐️分类 classification
