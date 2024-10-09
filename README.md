@@ -29,6 +29,7 @@
       支持向量机分类 support vector machine classification
       神经网络分类 neural network classification
    📚案例 examples
+      信用卡欺诈检测 Credit Card Fraud Detection
 
 ⭐️回归 regression
   💡算法 algorithms
