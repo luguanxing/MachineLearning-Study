@@ -36,6 +36,7 @@
       随机森林回归 random forest regression
       神经网络回归 neural network recession
   📚案例 examples
+      随机森林预测气温 Random Forest Temperature Prediction
 
 ⭐️聚类 clustering
    💡算法 algorithms
