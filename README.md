@@ -51,7 +51,9 @@
    💡算法 algorithms
       主成分分析 principal component analysis
       线性判别式 linear discriminant analysis
+      矩阵分解 matrix decomposition
    📚案例 examples
+      “鸢尾花”数据降维 Dimensionality Reduction of "Iris" Dataset
 ```
 
 <br/>
