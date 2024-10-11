@@ -8,6 +8,7 @@
 Here, we introduce the classic handwritten digit recognition dataset—the MNIST dataset, as shown in Figure. The dataset includes ten digits from 0 to 9. Our task is to classify the images so that the neural network can distinguish between these handwritten digits.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/716f15db-fb82-44b3-af5f-89f35e83a934">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/10a7e092-8bee-4966-ac6a-69fffd66c15f">
 
 <br/><br/>
 
