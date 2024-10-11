@@ -31,6 +31,7 @@
    📚案例 examples
       信用卡欺诈检测 Credit Card Fraud Detection
       Mnist手写字体图像分类 Mnist Handwritten Digit Image Classification
+      CIFAR-10图像分类 CIFAR-10 Image Classification
 
 ⭐️回归 regression
   💡算法 algorithms
