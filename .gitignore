@@ -1,3 +1,7 @@
 *.DS_Store
 *.ipynb_checkpoints
 分类classification/信用卡欺诈检测 Credit Card Fraud Detection/creditcard.csv
+分类classification/Mnist手写字体图像分类 Mnist Handwritten Digit Image Classification/my_mnist_data/x_train.npy
+分类classification/Mnist手写字体图像分类 Mnist Handwritten Digit Image Classification/my_mnist_data/x_test.npy
+分类classification/Mnist手写字体图像分类 Mnist Handwritten Digit Image Classification/my_mnist_data/y_test.npy
+分类classification/Mnist手写字体图像分类 Mnist Handwritten Digit Image Classification/my_mnist_data/y_train.npy
