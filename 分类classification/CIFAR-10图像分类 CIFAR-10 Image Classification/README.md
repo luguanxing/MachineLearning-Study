@@ -1,4 +1,4 @@
-# Mnist手写字体图像分类 Mnist Handwritten Digit Image Classification
+# CIFAR-10图像分类 CIFAR-10 Image Classification
 
 ## 背景 Background
 
