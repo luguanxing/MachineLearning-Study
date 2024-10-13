@@ -36,4 +36,8 @@ Compared to MNIST, the CIFAR dataset is indeed more complex, but it remains one 
 ### 深层卷积神经网络与残差网络 Deep Convolutional Neural Networks and Residual Networks
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/64bb5b21-2f45-4514-b79d-84074eedbdce">
 
+### 更高级训练 More advanced model
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a9ff9c5f-f500-4000-9cec-0f9e36766da9">
+
+
 
